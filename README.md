@@ -85,7 +85,7 @@ hilt {
     implementation 'com.github.akshay2211:stash:master'
 
     ///Coil
-    implementation 'io.coil-kt:coil:2.2.2'
+    implementation 'io.coil-kt:coil:2.2.2' ```groovy
 
 ## build.gradle - project
 
